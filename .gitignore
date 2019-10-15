@@ -1,0 +1,5 @@
+bigchaindb_docker
+venvpython
+.ipynb_checkpoints
+.idea
+*.tmp

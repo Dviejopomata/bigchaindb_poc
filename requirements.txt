@@ -1,0 +1,2 @@
+jupyter==1.0.0
+bigchaindb-driver==0.6.2

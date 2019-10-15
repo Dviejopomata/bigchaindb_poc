@@ -1,4 +1,4 @@
-## Proof of concepto for BigchainDB
+## Proof of concept for BigchainDB
 
 ### Install the requirements
 ```bash
